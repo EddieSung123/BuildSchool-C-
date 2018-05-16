@@ -1,0 +1,14 @@
+C:\buildschool\homework\year\year\bin\Debug\year.exe.config
+C:\buildschool\homework\year\year\bin\Debug\year.exe
+C:\buildschool\homework\year\year\bin\Debug\year.pdb
+C:\buildschool\homework\year\year\obj\Debug\year.csprojResolveAssemblyReference.cache
+C:\buildschool\homework\year\year\obj\Debug\year.csproj.CoreCompileInputs.cache
+C:\buildschool\homework\year\year\obj\Debug\year.exe
+C:\buildschool\homework\year\year\obj\Debug\year.pdb
+C:\buildschool-C#\homework\year\year\bin\Debug\year.exe.config
+C:\buildschool-C#\homework\year\year\bin\Debug\year.exe
+C:\buildschool-C#\homework\year\year\bin\Debug\year.pdb
+C:\buildschool-C#\homework\year\year\obj\Debug\year.csprojResolveAssemblyReference.cache
+C:\buildschool-C#\homework\year\year\obj\Debug\year.csproj.CoreCompileInputs.cache
+C:\buildschool-C#\homework\year\year\obj\Debug\year.exe
+C:\buildschool-C#\homework\year\year\obj\Debug\year.pdb

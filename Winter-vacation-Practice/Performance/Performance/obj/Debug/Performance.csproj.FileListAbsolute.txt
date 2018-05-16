@@ -1,0 +1,10 @@
+C:\buildschool\homework\Performance\Performance\bin\Debug\Performance.exe.config
+C:\buildschool\homework\Performance\Performance\bin\Debug\Performance.exe
+C:\buildschool\homework\Performance\Performance\bin\Debug\Performance.pdb
+C:\buildschool\homework\Performance\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+C:\buildschool\homework\Performance\Performance\obj\Debug\Performance.Form1.resources
+C:\buildschool\homework\Performance\Performance\obj\Debug\Performance.Properties.Resources.resources
+C:\buildschool\homework\Performance\Performance\obj\Debug\Performance.csproj.GenerateResource.Cache
+C:\buildschool\homework\Performance\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
+C:\buildschool\homework\Performance\Performance\obj\Debug\Performance.exe
+C:\buildschool\homework\Performance\Performance\obj\Debug\Performance.pdb

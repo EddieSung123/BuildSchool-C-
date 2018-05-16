@@ -1,0 +1,7 @@
+C:\buildschool\homework\loop\loop_2\bin\Debug\loop_2.exe.config
+C:\buildschool\homework\loop\loop_2\bin\Debug\loop_2.exe
+C:\buildschool\homework\loop\loop_2\bin\Debug\loop_2.pdb
+C:\buildschool\homework\loop\loop_2\obj\Debug\loop_2.csprojResolveAssemblyReference.cache
+C:\buildschool\homework\loop\loop_2\obj\Debug\loop_2.csproj.CoreCompileInputs.cache
+C:\buildschool\homework\loop\loop_2\obj\Debug\loop_2.exe
+C:\buildschool\homework\loop\loop_2\obj\Debug\loop_2.pdb

@@ -1,0 +1,7 @@
+C:\buildschool\homework\evenbase\evenbase_1\bin\Debug\evenbase_1.exe.config
+C:\buildschool\homework\evenbase\evenbase_1\bin\Debug\evenbase_1.exe
+C:\buildschool\homework\evenbase\evenbase_1\bin\Debug\evenbase_1.pdb
+C:\buildschool\homework\evenbase\evenbase_1\obj\Debug\evenbase_1.csprojResolveAssemblyReference.cache
+C:\buildschool\homework\evenbase\evenbase_1\obj\Debug\evenbase_1.csproj.CoreCompileInputs.cache
+C:\buildschool\homework\evenbase\evenbase_1\obj\Debug\evenbase_1.exe
+C:\buildschool\homework\evenbase\evenbase_1\obj\Debug\evenbase_1.pdb

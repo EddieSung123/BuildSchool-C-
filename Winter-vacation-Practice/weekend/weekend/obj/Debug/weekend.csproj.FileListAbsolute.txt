@@ -1,0 +1,10 @@
+C:\buildschool\homework\weekend\weekend\bin\Debug\weekend.exe.config
+C:\buildschool\homework\weekend\weekend\bin\Debug\weekend.exe
+C:\buildschool\homework\weekend\weekend\bin\Debug\weekend.pdb
+C:\buildschool\homework\weekend\weekend\obj\Debug\weekend.csprojResolveAssemblyReference.cache
+C:\buildschool\homework\weekend\weekend\obj\Debug\weekend.Form1.resources
+C:\buildschool\homework\weekend\weekend\obj\Debug\weekend.Properties.Resources.resources
+C:\buildschool\homework\weekend\weekend\obj\Debug\weekend.csproj.GenerateResource.Cache
+C:\buildschool\homework\weekend\weekend\obj\Debug\weekend.csproj.CoreCompileInputs.cache
+C:\buildschool\homework\weekend\weekend\obj\Debug\weekend.exe
+C:\buildschool\homework\weekend\weekend\obj\Debug\weekend.pdb

@@ -1,0 +1,7 @@
+C:\buildschool\homework\string11\string11\bin\Debug\string11.exe.config
+C:\buildschool\homework\string11\string11\bin\Debug\string11.exe
+C:\buildschool\homework\string11\string11\bin\Debug\string11.pdb
+C:\buildschool\homework\string11\string11\obj\Debug\string11.csprojResolveAssemblyReference.cache
+C:\buildschool\homework\string11\string11\obj\Debug\string11.csproj.CoreCompileInputs.cache
+C:\buildschool\homework\string11\string11\obj\Debug\string11.exe
+C:\buildschool\homework\string11\string11\obj\Debug\string11.pdb
