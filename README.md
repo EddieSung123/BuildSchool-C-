@@ -1,2 +1,2 @@
-# BuildSchool-C-
+# BuildSchool-CSharp
 C#作品集
